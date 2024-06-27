@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:musizk_app/global_widgets/bottom_nav.dart';
-import 'package:musizk_app/presentation/favourite_page/controller/favourites_controller.dart';
+import 'package:muzik/global_widgets/bottom_nav.dart';
+import 'package:muzik/presentation/favourite_page/controller/favourites_controller.dart';
 
 class FavouriteScreen extends StatefulWidget {
   const FavouriteScreen({Key? key});

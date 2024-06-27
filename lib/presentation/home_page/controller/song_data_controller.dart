@@ -2,7 +2,7 @@
 
 import 'package:get/get.dart';
 import 'package:get/state_manager.dart';
-import 'package:musizk_app/presentation/home_page/controller/song_player_controller.dart';
+import 'package:muzik/presentation/home_page/controller/song_player_controller.dart';
 import 'package:on_audio_query/on_audio_query.dart';
 import 'package:permission_handler/permission_handler.dart';
 

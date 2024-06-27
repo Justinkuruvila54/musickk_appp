@@ -1,9 +1,9 @@
 // // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables
 
 // import 'package:flutter/material.dart';
-// import 'package:musizk_app/core/constants/color.dart';
-// import 'package:musizk_app/presentation/favourite_page/view/favourite_page.dart';
-// import 'package:musizk_app/presentation/home_page/view/home_page.dart';
+// import 'package:muzik/core/constants/color.dart';
+// import 'package:muzik/presentation/favourite_page/view/favourite_page.dart';
+// import 'package:muzik/presentation/home_page/view/home_page.dart';
 
 // class BottomNav extends StatefulWidget {
 //   const BottomNav({super.key});
